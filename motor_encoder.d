@@ -1,0 +1,10 @@
+.\motor_encoder.o: MOTOR_ENCODER.c
+.\motor_encoder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\motor_encoder.o: rom.h
+.\motor_encoder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\motor_encoder.o: hw_memmap.h
+.\motor_encoder.o: gpio.h
+.\motor_encoder.o: rom_map.h
+.\motor_encoder.o: sysctl.h
+.\motor_encoder.o: qei.h
+.\motor_encoder.o: MOTOR_ENCODER.h

@@ -1,0 +1,10 @@
+.\qei.o: QEI.c
+.\qei.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\qei.o: rom.h
+.\qei.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\qei.o: hw_memmap.h
+.\qei.o: gpio.h
+.\qei.o: rom_map.h
+.\qei.o: sysctl.h
+.\qei.o: qei.h
+.\qei.o: speed.h

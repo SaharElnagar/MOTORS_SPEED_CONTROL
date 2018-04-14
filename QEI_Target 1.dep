@@ -1,0 +1,26 @@
+Dependencies for Project 'QEI', Target 'Target 1': (DO NOT MODIFY !)
+F (R:\TivaWare\driverlib\rvmdk\driverlib.lib)(0x5AA43CE8)()
+F (.\startup_TM4C123.s)(0x5AC7B13A)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 523" --pd "TM4C123GH6PM SETA 1"--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\Motor_PWM.c)(0x5ACCE00E)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DTM4C123GH6PM-o .\motor_pwm.o --omf_browse .\motor_pwm.crf --depend .\motor_pwm.d)
+I (Motor_PWM.h)(0x5ACE2ACF)
+I (tm4c123gh6pm.h)(0x51D44682)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F65B18)
+F (.\Motor_PWM.h)(0x5ACE2ACF)()
+F (.\MOTOR_ENCODER.c)(0x5ACE2B99)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DTM4C123GH6PM-o .\motor_encoder.o --omf_browse .\motor_encoder.crf --depend .\motor_encoder.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F65B18)
+I (rom.h)(0x5AA43CE8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F65B18)
+I (hw_memmap.h)(0x5AA43CEC)
+I (gpio.h)(0x5AA43CE8)
+I (rom_map.h)(0x5AA43CE8)
+I (sysctl.h)(0x5AA43CE8)
+I (qei.h)(0x5AA43CE8)
+I (MOTOR_ENCODER.h)(0x5ACE3A4E)
+F (.\MOTOR_PID.c)(0x5ACE3A4C)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DTM4C123GH6PM-o .\motor_pid.o --omf_browse .\motor_pid.crf --depend .\motor_pid.d)
+I (MOTOR_PID.h)(0x5ACE3A4E)
+I (Motor_PWM.h)(0x5ACE2ACF)
+I (tm4c123gh6pm.h)(0x51D44682)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F65B18)
+I (Motor_ENCODER.h)(0x5ACE3A4E)
+F (.\MOTOR_ENCODER.h)(0x5ACE3A4E)()
+F (.\MOTOR_PID.h)(0x5ACE3A4E)()
